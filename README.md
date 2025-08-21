@@ -1,4 +1,4 @@
-﻿**Scalable Web App with EC2, ALB & Auto Scaling**
+﻿**Scalable Web Application with EC2, ALB & Auto Scaling**
 
 **Transform your simple web app into a highly available, scalable architecture using AWS services, complete with monitoring and cost-optimization features.**
 
@@ -67,7 +67,7 @@
 
 **Clone & Build:**
 
-**git clone https://github.com/AShaaban97-dev/ec2-scalable-web-app.git**
+**git clone https://github.com/MahmoudMoawadAbdelhamid/ec2-scalable-web-application.git**
 
 **cd ec2-scalable-web-app**
 
