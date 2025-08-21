@@ -1,0 +1,16 @@
+{
+  "name": "ec2-scalable-web-app",
+  "version": "1.0.0",
+  "description": "Highly available EC2 Web App with RDS backend using AWS CDK",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "cdk": "cdk"
+  },
+  "dependencies": {
+    "aws-cdk-lib": "^2.130.0",
+    "constructs": "^10.3.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.3.3"
+  }
+}
