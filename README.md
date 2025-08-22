@@ -93,3 +93,6 @@
 - **Add additional alarms (e.g. Disk, Network, HTTP 5xx) or dashboards as needed**
 -----
 ** 
+License
+
+This project is licensed under the MIT License
